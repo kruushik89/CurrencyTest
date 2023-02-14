@@ -1,0 +1,15 @@
+.header {
+  height: 60px;
+  border-bottom: 1px solid #e0e6ed;
+  padding: 0 50px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 200px;
+}
+
+.logo img {
+  width: 100%;
+}

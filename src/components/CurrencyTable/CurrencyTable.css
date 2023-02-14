@@ -1,0 +1,20 @@
+.MuiSvgIcon-root.edit-icon {
+  position: absolute;
+  right: 10px;
+  top: 12px;
+  cursor: pointer;
+  display: none;
+}
+
+.MuiTableCell-root:hover .edit-icon {
+  display: block;
+}
+
+.icon {
+  cursor: pointer;
+}
+
+.apply {
+  position: absolute;
+  right: 20px;
+}

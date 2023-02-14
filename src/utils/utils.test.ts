@@ -1,5 +1,5 @@
 import {convert} from "./utils";
-import {RatesProps} from "../../types/rates.props";
+import {RatesProps} from "../types/rates.props";
 
 const rates = [{ccy: "EUR", base_ccy: "UAH", buy: "41.3", sale: "42.3"}, {
   ccy: "USD",

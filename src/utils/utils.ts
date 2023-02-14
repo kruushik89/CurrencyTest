@@ -1,4 +1,4 @@
-import {RatesProps} from "../../types/rates.props";
+import {RatesProps} from "../types/rates.props";
 
 export const findRate = (name: string, rates: RatesProps[]): any => {
   const rate = rates.find((r: any) => r.ccy === name);

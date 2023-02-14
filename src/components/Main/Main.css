@@ -1,0 +1,25 @@
+.main {
+  flex-grow: 1;
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.MuiButton-root.error-message {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+}
+
+.wrap-currency-input {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  margin-top: 50px;
+}
+
+.MuiSvgIcon-root.compare-arrows {
+  font-size: 30px;
+  align-items: center;
+  cursor: pointer;
+}
